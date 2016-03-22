@@ -1,0 +1,12 @@
+{
+  "name": "example-grunt-protractor-runner",
+  "version": "1.0.0",
+  "description": "an example",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-protractor-runner": "^3.1.0",
+    "protractor": "^3.1.0"
+  }
+}

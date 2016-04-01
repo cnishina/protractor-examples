@@ -2,7 +2,7 @@
   "name": "example-grunt-protractor-runner",
   "version": "1.0.0",
   "description": "an example",
-  "author": "",
+  "author": "Craig Nishina <craig.nishina@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "grunt": "^0.4.5",

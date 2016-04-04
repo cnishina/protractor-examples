@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/cnishina/protractor-examples/issues"
   },
-  "homepage": "https://github.com/cnishina/protractor-examples#readme"
+  "homepage": "https://github.com/cnishina/protractor-examples#readme",
+  "dependencies": {
+    "protractor": "^3.2.2"
+  }
 }

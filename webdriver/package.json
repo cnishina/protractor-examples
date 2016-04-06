@@ -1,0 +1,15 @@
+{
+  "name": "example-webdriver",
+  "version": "1.0.0",
+  "description": "webdriver examples",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Nishina <craig.nishina@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "protractor": "^3.2.2",
+    "selenium-webdriver": "^2.53.1"
+  }
+}

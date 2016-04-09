@@ -1,0 +1,17 @@
+{
+  "name": "example-gulp-protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Nishina <craig.nishina@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-protractor": "^2.3.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "just-selenium",
+  "version": "1.0.0",
+  "description": "a selenium test with waits instead of protractor",
+  "author": "Craig Nishina <craig.nishina@gmail.com>",
+  "scripts": {
+    "test": "node spec/test_spec.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.2"
+  }
+}

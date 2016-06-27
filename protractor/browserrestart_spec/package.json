@@ -1,0 +1,14 @@
+{
+  "name": "browserrestart_spec",
+  "version": "1.0.0",
+  "description": "investigation of #3283",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "protractor": "^3.3.0"
+  }
+}
